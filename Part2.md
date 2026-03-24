@@ -196,30 +196,29 @@
 
 ## 🚀 Learning Progress
 
-* ![x](https://img.shields.io/badge/Basic%20Commands-blue) Basic Commands  
-* ![x](https://img.shields.io/badge/Navigation-blue) Navigation  
-* ![x](https://img.shields.io/badge/File%20%26%20Directory%20Management-blue) File & Directory Management  
-* ![x](https://img.shields.io/badge/File%20Viewing%20%26%20Writing-blue) File Viewing & Writing  
-* ![x](https://img.shields.io/badge/Environment%20Variables-blue) Environment Variables  
-* ![x](https://img.shields.io/badge/Aliases-blue) Aliases  
-* ![x](https://img.shields.io/badge/Utilities-blue) Utilities  
-* ![x](https://img.shields.io/badge/Permissions-blue) Permissions  
-* ![x](https://img.shields.io/badge/Processes-blue) Processes  
-* ![x](https://img.shields.io/badge/Networking-blue) Networking  
-* ![x](https://img.shields.io/badge/Shell%20Scripting-blue) Shell Scripting  
-* ![x](https://img.shields.io/badge/File%20Search%20%26%20Filtering-blue) File Search & Filtering  
-* ![x](https://img.shields.io/badge/Permissions%20%26%20Ownership-blue) Permissions & Ownership  
-* ![x](https://img.shields.io/badge/Searching%20with%20grep-blue) Searching with grep  
-* ![x](https://img.shields.io/badge/Shortcuts%20%26%20Keyboard%20Efficiency-blue) Shortcuts & Keyboard Efficiency  
-* ![x](https://img.shields.io/badge/Command%20Execution%20%26%20Chaining-blue) Command Execution & Chaining  
-* ![x](https://img.shields.io/badge/Sorting%20%26%20File%20Processing-blue) Sorting & File Processing  
-* ![x](https://img.shields.io/badge/Processes%20%26%20Background%20Jobs-blue) Processes & Background Jobs  
-* ![x](https://img.shields.io/badge/System%20Info%20%26%20Networking-blue) System Info & Networking  
-* ![x](https://img.shields.io/badge/Archiving%20%26%20Compression-blue) Archiving & Compression  
-* ![x](https://img.shields.io/badge/User%20Management-blue) User Management  
-* ![x](https://img.shields.io/badge/System%20Monitoring-blue) System Monitoring  
+- [x] Basic Commands
+- [x] Navigation
+- [x] File & Directory Management
+- [x] File Viewing & Writing
+- [x] Environment Variables
+- [x] Aliases
+- [x] Utilities
+- [x] Permissions
+- [x] Processes
+- [x] Networking
+- [x] Shell Scripting
 
----
+- [x] File Search & Filtering
+- [x] Permissions & Ownership
+- [x] Searching with grep
+- [x] Shortcuts & Keyboard Efficiency
+- [x] Command Execution & Chaining
+- [x] Sorting & File Processing
+- [x] Processes & Background Jobs
+- [x] System Info & Networking
+- [x] Archiving & Compression
+- [x] User Management
+- [x] System Monitoring
 
 <div align="center">
 
